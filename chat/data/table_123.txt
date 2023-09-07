@@ -1,0 +1,33 @@
+some detailed instructions how to assemble a table with article number 123
+
+Main Components:
+- legs (quantity: 4)
+- tableplate (quantity: 1)
+
+Tools:
+- drill: The drill is used to assemble the legs to the tableplate and tighten them.
+- screwdriver: The screwdriver is also used to assemble the legs to the tableplate.
+Both, drill and screwdriver, can be used to tighten the leg.
+
+
+Instructions:
+Take leg
+    - take one of the four legs in your hand
+    - slowly locate the leg in the correct position of the tableplate
+
+Assemble leg
+    - rotate the leg with both hands in clockwise direction
+    - the screw in the leg should tighten to the tableplate
+
+Grab Tool
+    - take either a screwdriver or a drill
+
+Use tool
+    - use your tool, either the screwdriver or the drill, to fix the leg
+
+Drop Tool
+    - lay down the tool you used in order to continue with the next leg
+
+The order of the instructions is fixed and should not be changed. If the user
+does another step before the expected step, he should be reminded of the correct
+step.
