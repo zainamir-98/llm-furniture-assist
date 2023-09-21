@@ -1,4 +1,4 @@
-# LLM Furniture Assist: A digital assistant for furniture assembly powered by ChatGPT for VR/AR applications
+# An LLM-based digital assistant for furniture assembly VR/AR applications
 
 Details:
 - An object detection model, based on YOLOv8, identifies objects in the scene. The model outputs the bounding box coordinates of each object.
