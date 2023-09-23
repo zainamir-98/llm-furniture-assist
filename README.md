@@ -1,5 +1,8 @@
 # An LLM-based digital assistant for furniture assembly VR/AR applications
 
+![Fancy logo](docs/diag-dark.png#gh-dark-mode-only)
+![Fancy logo](docs/diag-light.png#gh-light-mode-only)
+
 Details:
 - An object detection model, based on YOLOv8, identifies objects in the scene. The model outputs the bounding box coordinates of each object.
 - Google's Mediapipe algorithm is used to identify hand landmarks (coordinates of the joints). Bounding box coordinates from YOLOv8 are used to extract the hands only before application of the Mediapipe algorithm.
