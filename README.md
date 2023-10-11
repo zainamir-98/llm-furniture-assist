@@ -1,4 +1,4 @@
-# An LLM-based digital assistant for furniture assembly VR/AR applications
+# An LLM-based digital assistant for furniture assembly for VR/AR applications
 
 ![Fancy logo](docs/diag-dark.png#gh-dark-mode-only)
 ![Fancy logo](docs/diag-light.png#gh-light-mode-only)
